@@ -7,14 +7,19 @@ Finally you can also find the ssh configuration which allows only Public Key Aut
 Here is how you can download your vulnerable bash:
 
 `mkdir src && cd src`
+
 `wget http://ftp.gnu.org/gnu/bash/bash-3.1.tar.gz`
+
 `tar zxvf bash-3.1.tar.gz`
+
 `cd bash-3.1`
 
 `./configure && make`
+
 `sudo make install`
 
 `sudo mv /bin/bash /bin/bash.old`
+
 `sudo ln -s /usr/local/bin/bash /bin/bash`
 
 #Test your Bash Version for shellshock
