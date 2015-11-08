@@ -28,4 +28,4 @@ Here is how you can download your vulnerable bash:
 
 # Slides from FOSSCOMM
 
-[Slides from FOSSCOMM Workshop]("https://nikosdano.com/fosscomm.odp")
+[Slides from FOSSCOMM Workshop](https://nikosdano.com/fosscomm.odp)
