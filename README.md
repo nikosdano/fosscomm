@@ -26,3 +26,6 @@ Here is how you can download your vulnerable bash:
 
 `env x='() { :; }; echo Normally I should not be able to see this' bash -c : `
 
+# Slides from FOSSCOMM
+
+[Slides from FOSSCOMM Workshop]("https://nikosdano.com/fosscomm.odp")
